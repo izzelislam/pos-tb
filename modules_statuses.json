@@ -1,3 +1,7 @@
 {
-    "Core": false
+    "Core": true,
+    "Master": true,
+    "POS": true,
+    "Inventory": true,
+    "HRD": true
 }
